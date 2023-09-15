@@ -1,0 +1,3 @@
+/home/nico/OneDrive/Facu/2do año/Analisis Numerico/Ecuaciones/Ecu/cmake-build-debug/CMakeFiles/Ecu.dir
+/home/nico/OneDrive/Facu/2do año/Analisis Numerico/Ecuaciones/Ecu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nico/OneDrive/Facu/2do año/Analisis Numerico/Ecuaciones/Ecu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
